@@ -1,7 +1,7 @@
 {
   "name": "babel-plugin-transform-dwayne-html",
-  "version": "0.1.0",
-  "main": "lib/plugin.js",
+  "version": "0.1.1",
+  "main": "lib/index.js",
   "dependencies": {
     "parse-dwayne-html": "^0.1.0"
   }
