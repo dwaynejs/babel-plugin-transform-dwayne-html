@@ -1,10 +1,10 @@
 {
   "name": "babel-plugin-transform-dwayne-html",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "main": "lib/index.js",
   "dependencies": {
     "babel-template": "^6.23.0",
     "lodash": "^4.17.4",
-    "parse-dwayne-html": "^0.1.1"
+    "parse-dwayne-html": "^0.1.6"
   }
 }
