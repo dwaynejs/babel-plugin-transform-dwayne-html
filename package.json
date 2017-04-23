@@ -1,6 +1,6 @@
 {
   "name": "babel-plugin-transform-dwayne-html",
-  "version": "1.2.2",
+  "version": "1.2.3",
   "main": "lib/index.js",
   "dependencies": {
     "babel-template": "^6.23.0",
