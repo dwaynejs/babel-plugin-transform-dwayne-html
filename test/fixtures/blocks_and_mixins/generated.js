@@ -6,7 +6,7 @@ class MyBlock extends Block {
   static html = (_tmpl = [{
     type: "div",
     args: {
-      "Class:active": (_mixin = _ => _.active, _mixin.mixin = Class, _mixin)
+      "Class:active": (_mixin = _ => _.active, _mixin.mixin = Class, _mixin.__source = "source.js:5:9", _mixin)
     },
     children: [{
       type: "#text",

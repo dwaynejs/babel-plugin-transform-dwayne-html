@@ -29,7 +29,7 @@ let _tmpl, _mixin;
 const tmpl = (_tmpl = [{
   type: "div",
   args: {
-    "Class:active": (_mixin = _ => _.active, _mixin.mixin = Class, _mixin)
+    "Class:active": (_mixin = _ => _.active, _mixin.mixin = Class, _mixin.__source = "source.js:2:7", _mixin)
   },
   children: [{
     type: "#text",
