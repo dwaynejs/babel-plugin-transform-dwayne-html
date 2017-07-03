@@ -17,11 +17,7 @@ class MyBlock extends Block {
         set: _ => _.set,
         item: "item",
         uid: () => item => item.id,
-        __source: {
-          file: "source.js",
-          line: 7,
-          column: 7
-        }
+        __source: "source.js:7:7"
       },
       children: [{
         type: "#text",

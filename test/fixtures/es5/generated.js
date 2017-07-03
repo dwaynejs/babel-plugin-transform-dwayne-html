@@ -25,11 +25,7 @@ class MyBlock extends Block {
         uid: function () {
           return item => item.id;
         },
-        __source: {
-          file: "source.js",
-          line: 7,
-          column: 7
-        }
+        __source: "source.js:7:7"
       },
       children: [{
         type: "#text",

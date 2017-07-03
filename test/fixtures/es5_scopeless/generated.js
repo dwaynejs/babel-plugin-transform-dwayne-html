@@ -11,11 +11,7 @@ function startApp() {
       routes: function () {
         return _this;
       },
-      __source: {
-        file: "source.js",
-        line: 6,
-        column: 25
-      }
+      __source: "source.js:6:25"
     }
   }], find('.root'));
 }

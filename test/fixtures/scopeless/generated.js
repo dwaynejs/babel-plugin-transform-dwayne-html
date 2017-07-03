@@ -6,10 +6,6 @@ initApp([{
   type: Router,
   args: {
     routes: () => routes,
-    __source: {
-      file: "source.js",
-      line: 6,
-      column: 17
-    }
+    __source: "source.js:6:17"
   }
 }], find('.root'));
