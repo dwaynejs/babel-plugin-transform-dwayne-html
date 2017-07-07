@@ -1,6 +1,6 @@
 {
   "name": "babel-plugin-transform-dwayne-html",
-  "version": "5.0.2",
+  "version": "5.0.3",
   "main": "lib/index.js",
   "devDependencies": {
     "babel-cli": "^6.24.1",
