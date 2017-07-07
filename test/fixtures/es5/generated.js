@@ -8,7 +8,7 @@ class MyBlock extends Block {
     args: {
       "Class:active": (_mixin = function (_) {
         return _.active;
-      }, _mixin.mixin = Class, _mixin.__source = "source.js:5:9", _mixin)
+      }, _mixin.mixin = Class, _mixin.__source = "source.js:5:10", _mixin)
     },
     children: [{
       type: "#text",
@@ -25,7 +25,7 @@ class MyBlock extends Block {
         uid: function () {
           return item => item.id;
         },
-        __source: "source.js:7:7"
+        __source: "source.js:7:8"
       },
       children: [{
         type: "#text",

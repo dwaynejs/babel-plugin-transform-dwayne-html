@@ -6,6 +6,6 @@ initApp([{
   type: Router,
   args: {
     routes: () => routes,
-    __source: "source.js:6:17"
+    __source: "source.js:6:18"
   }
 }], find('.root'));

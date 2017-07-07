@@ -29,7 +29,7 @@ let _tmpl, _mixin;
 const tmpl = (_tmpl = [{
   type: "div",
   args: {
-    "Class:active": (_mixin = _ => _.active, _mixin.mixin = Class, _mixin.__source = "source.js:2:7", _mixin)
+    "Class:active": (_mixin = _ => _.active, _mixin.mixin = Class, _mixin.__source = "source.js:2:8", _mixin)
   },
   children: [{
     type: "#text",
@@ -37,7 +37,7 @@ const tmpl = (_tmpl = [{
   }, {
     type: OtherBlock,
     args: {
-      __source: "source.js:4:5"
+      __source: "source.js:4:6"
     }
   }]
 }], _tmpl.vars = ["active", "text"], _tmpl);
